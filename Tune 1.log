@@ -1,0 +1,6 @@
+Edit Log for Tune 1.bin created by TunerPro.
+**************************************************************************
+07/07/2024 16:30:43  Scalar:    B3307 - DFCO Re-Enable Timer changed from 5 Seconds (0x0320) to 0 Seconds (0x0050).
+07/07/2024 16:33:38  Scalar:    B3307 - DFCO Re-Enable Timer changed from 0 Seconds (0x0050) to 1 Seconds (0x00A0).
+07/07/2024 18:09:00  Table:     B5932 - Base Spark in Gear (Degrees) changed.
+07/08/2024 01:24:27  Scalar:    B3307 - DFCO Re-Enable Timer changed from 1 Seconds (0x00A0) to 0 Seconds (0x0030).
