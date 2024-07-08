@@ -1,4 +1,1 @@
-"# camaro-tuning" 
-"# camaro-tuning" 
-"# camaro-tuning" 
-"# camaro-tuning" 
+Both .XDF files seem to work perfectly for the 12212156 ECU.
