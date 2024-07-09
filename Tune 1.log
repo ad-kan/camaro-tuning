@@ -8,3 +8,16 @@ Edit Log for Tune 1.bin created by TunerPro.
 07/08/2024 03:24:18  Scalar:    B1901 - Maximum Allowed Engine Torque changed from 640 Ft-lbs (0x7FFF) to 370 Ft-lbs (0x4A00).
 07/08/2024 03:25:00  Scalar:    B6619 - Maximum Transmission Input Torque changed from 41943039 Ft-lbs (0x7FFFFFC) to 650 Ft-lbs (0x0000820).
 07/08/2024 03:25:08  Scalar:    B6620 - Maximum Transmission Output Torque changed from 41943039 Ft-lbs (0x7FFFFFC) to 2000 Ft-lbs (0x0001900).
+07/08/2024 03:57:14  Table:     G1207 - Vehicle Platform Options table changed.
+07/08/2024 03:58:14  Flag:      D0402 - CAGS Lamp Enable (manual trans only) changed from Not Set to Set..
+07/08/2024 03:59:43  Scalar:    B5801 - Shift Light Max RPM in All Gears changed from 12799.8 RPM (0xFFFF) to 4000.0 RPM (0x5000).
+07/08/2024 04:01:32  Flag:      B5816 - Shift Light Enable changed from Not Set to Set..
+07/08/2024 05:42:18  Flag:      D0402 - CAGS Lamp Enable (manual trans only) changed from Set to Not Set..
+07/08/2024 05:42:47  Scalar:    B5811 - Shift Light Maximum Light On-Time changed from 409.59 Seconds (0xFFFF) to 3.00 Seconds (0x01E0).
+07/08/2024 05:44:26  Scalar:                 DFCO M6 Delay changed from 0.23 Seconds (0x000C) to 0.00 Seconds (0x0000).
+07/08/2024 05:51:51  Scalar:                 DFCO M6 Delay changed from 0.00 Seconds (0x0000) to 0.51 Seconds (0x001A).
+07/08/2024 05:52:17  Scalar:                 DFCO M6 Delay changed from 0.51 Seconds (0x001A) to 0.51 Seconds (0x001A).
+07/08/2024 05:52:25  Scalar:                 DFCO M6 Delay changed from 0.51 Seconds (0x001A) to 1.00 Seconds (0x0033).
+07/08/2024 05:52:29  Scalar:                 DFCO M6 Delay changed from 1.00 Seconds (0x0033) to 0.00 Seconds (0x0000).
+07/08/2024 05:52:36  Scalar:                 DFCO M6 Delay changed from 0.00 Seconds (0x0000) to 0.51 Seconds (0x001A).
+07/08/2024 05:53:15  Scalar:                 DFCO M6 Delay changed from 0.51 Seconds (0x001A) to 0.23 Seconds (0x000C).
