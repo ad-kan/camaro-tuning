@@ -2,3 +2,4 @@ Edit Log for Pull 1.bin created by TunerPro.
 **************************************************************************
 07/07/2024 04:32:22  Scalar:    B4601 - Max Idle RPM in Gear changed from 1200 RPM (0x1800) to 1000 RPM (0x1400).
 07/07/2024 04:43:26  Scalar:    H0101 - Vehicle Speed Sensor (VSS) Pulses per Mile changed from 47020 Pulses / Mile (0x2F05) to 44926 Pulses / Mile (0x2CED).
+07/15/2024 22:15:04  Scalar:    H0101 - Vehicle Speed Sensor (VSS) Pulses per Mile changed from 44926 Pulses / Mile (0x2CED) to 44910 Pulses / Mile (0x2CE9).

@@ -21,3 +21,14 @@ Edit Log for Tune 1.bin created by TunerPro.
 07/08/2024 05:52:29  Scalar:                 DFCO M6 Delay changed from 1.00 Seconds (0x0033) to 0.00 Seconds (0x0000).
 07/08/2024 05:52:36  Scalar:                 DFCO M6 Delay changed from 0.00 Seconds (0x0000) to 0.51 Seconds (0x001A).
 07/08/2024 05:53:15  Scalar:                 DFCO M6 Delay changed from 0.51 Seconds (0x001A) to 0.23 Seconds (0x000C).
+07/13/2024 02:26:57  Scalar:                 DFCO Enable Delay changed from 2.0 Seconds (0x0140) to 0.5 Seconds (0x0050).
+07/13/2024 02:27:22  Scalar:                 DFCO Enable Delay - Cat Overheat Protection Active changed from 2.0 Seconds (0x0140) to 0.5 Seconds (0x0050).
+07/13/2024 02:28:05  Table:     B3318 - DFCO RPM changed.
+07/13/2024 02:30:25  Scalar:                 DFCO Enable Delay changed from 0.5 Seconds (0x0050) to 0.3 Seconds (0x0030).
+07/13/2024 02:30:34  Scalar:                 DFCO Enable Delay - Cat Overheat Protection Active changed from 0.5 Seconds (0x0050) to 0.3 Seconds (0x0030).
+07/15/2024 22:15:28  Scalar:    H0101 - Vehicle Speed Sensor (VSS) Pulses per Mile changed from 44926 Pulses / Mile (0x2CED) to 44910 Pulses / Mile (0x2CE9).
+07/15/2024 22:16:25  Scalar:                 DFCO Enable Delay changed from 0.3 Seconds (0x0030) to 0.1 Seconds (0x0018).
+07/15/2024 22:37:37  Scalar:                 DFCO Enable Delay changed from 0.1 Seconds (0x0018) to 0.2 Seconds (0x0020).
+07/15/2024 22:44:51  Scalar:    B3307 - DFCO Re-Enable Timer changed from 0.3 Seconds (0x0030) to 0.2 Seconds (0x0020).
+07/15/2024 23:55:01  Scalar:    B3307 - DFCO Re-Enable Timer changed from 0.2 Seconds (0x0020) to 0.3 Seconds (0x0030).
+07/15/2024 23:55:16  Scalar:                 DFCO Enable Delay changed from 0.2 Seconds (0x0020) to 0.3 Seconds (0x0030).
