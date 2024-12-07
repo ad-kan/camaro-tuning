@@ -32,3 +32,4 @@ Edit Log for Tune 1.bin created by TunerPro.
 07/15/2024 22:44:51  Scalar:    B3307 - DFCO Re-Enable Timer changed from 0.3 Seconds (0x0030) to 0.2 Seconds (0x0020).
 07/15/2024 23:55:01  Scalar:    B3307 - DFCO Re-Enable Timer changed from 0.2 Seconds (0x0020) to 0.3 Seconds (0x0030).
 07/15/2024 23:55:16  Scalar:                 DFCO Enable Delay changed from 0.2 Seconds (0x0020) to 0.3 Seconds (0x0030).
+12/07/2024 14:18:42  Scalar:    H0101 - Vehicle Speed Sensor Pulses per Mile changed from 44910 Pulses/Mile (0x2CE9) to 41453 Pulses/Mile (0x2974).
